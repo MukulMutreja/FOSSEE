@@ -1,7 +1,3 @@
-Here is a combined README.md that blends both files into a student-written style suitable for a second-year college student, based on open-source best practices and keeping the tone engaging, honest, and clear.[3][4]
-
-***
-
 # 🚀 FOSSEE Workshop Portal - UI/UX Overhaul
 
 Hi there!  
